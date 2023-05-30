@@ -1,0 +1,59 @@
+body {
+  color: #535353;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mui-image-wrapper {
+  display: inline-block !important;
+}
+
+.home-page-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 25%;
+  width: 100%;
+  padding-bottom: 10rem;
+}
+
+.list-text a {
+  text-decoration: none;
+  color: #757575;
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  display: block;
+}
+
+.home-page-content h2{
+  margin: 0;
+}
+
+.home-btns button {
+  margin: 5px;
+}
+
+a.bank-action {
+  width: 35px;
+  height: 35px;
+  border: 3px solid #234889;
+  text-align: center;
+  margin: 0 10px;
+  padding-top: 11px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+  color: #c92327;
+}
+
+.hover {
+  cursor: pointer;
+}
